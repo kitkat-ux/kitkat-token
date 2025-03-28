@@ -1,0 +1,12 @@
+{
+  "name": "kitkat",
+  "symbol": "KIT",
+  "decimals": 9,
+  "address": "8MTc6WPnofapxqQho5WvTnnJxMk7c4Hjr7A15kobFuKt",
+  "logoURI": "https://raw.githubusercontent.com/kitkat-ux/kitkat-token/main/kitkat.png",
+  "tags": ["community-token", "meme"],
+  "extensions": {
+    "website": "https://kitkat-token.dev",
+    "description": "A sweet meme token built on Solana for fun & learning"
+  }
+}
